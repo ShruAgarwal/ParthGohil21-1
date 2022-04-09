@@ -131,6 +131,6 @@
 
 
 <h2 align="center">📈 Activity</h2>
-<!--Change your username below-->
-<!--[![Parth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
+<a href="https://github.com/ParthGohil21/github-readme-activity-graph">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ParthGohil21&theme=material-palenight" />
+</a>
